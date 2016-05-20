@@ -3,7 +3,7 @@
 ![alt text](https://github.com/tay1392/QtMetronome/blob/master/KORG_MA30_METRONOM.jpg "Backgammon close up")
 
 **Project Description:**
-My project is to build a digital metronome. A metronome is a tool used to keep a certain tempo in a number of activities. The majority of people that use metronomes are musicians that strive to increase their speed, accuracy, or to just practice playing the correct tempo. It works by creating a regular aural pulse that a user can then subdivide into different tempos. For example, sixteenth-note triplets would mean each beat is divided into 6 pieces. The metronome is a very useful tool for obtaining proficiency with any instrument.
+My project is to build a digital metronome. A metronome is a tool used to keep a certain tempo in a number of activities. The majority of people that use metronomes are musicians that strive to increase their speed, accuracy, or to just practice playing a certain tempo. It works by creating a regular aural pulse that a user can then subdivide into different tempos. For example, sixteenth-note triplets would mean each beat is divided into 6 pieces. The metronome is a very useful tool for obtaining proficiency with any instrument.
 
 
 **Technologies:**

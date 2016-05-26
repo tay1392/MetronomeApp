@@ -183,7 +183,7 @@ ApplicationWindow
         {
             id: tempos
             fillMode: Image.PreserveAspectCrop
-            source: "qrc://pics/tempos.jpg"
+            source: "qrc:/Pics/tempos.jpg"
             width: 250
             height:275
             anchors.top:line3.bottom
@@ -753,7 +753,7 @@ ApplicationWindow
         Audio
         {
             id: drumsloop
-            source:"qrc://sounds/DrumLoop.mp3"
+            source:"qrc:/Sounds/DrumLoop.mp3"
             autoPlay: false
             autoLoad: true
         }

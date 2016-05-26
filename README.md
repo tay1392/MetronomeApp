@@ -1,6 +1,6 @@
 # QtMetronome
 
-![alt text](https://github.com/tay1392/QtMetronome/blob/master/KORG_MA30_METRONOM.jpg "Backgammon close up")
+![alt text](https://github.com/tay1392/QtMetronome/blob/master/SplashScreenshot.PNG "Home page")
 
 **Project Description:**
 My project is to build a digital metronome. A metronome is a tool used to keep a certain tempo in a number of activities. The majority of people that use metronomes are musicians that strive to increase their speed, accuracy, or to just practice playing a certain tempo. It works by creating a regular aural pulse that a user can then subdivide into different tempos. For example, sixteenth-note triplets would mean each beat is divided into 6 pieces. The metronome is a very useful tool for obtaining proficiency with any instrument.
@@ -12,21 +12,23 @@ QML, Qt, C++, JavaScript
 
 **Screenshots:**
 
-Prototype sketches
+Current program
 
-![alt text](https://github.com/tay1392/QtMetronome/blob/master/software%20metronome.jpg "Example")
-![alt text](https://github.com/tay1392/QtMetronome/blob/master/IMG_2916.JPG "Prototype sketch")
+![alt text](https://github.com/tay1392/QtMetronome/blob/master/MetroSnap.PNG "Metronome Screenshot")
+![alt text](https://github.com/tay1392/QtMetronome/blob/master/IMG_2916.JPG "Original prototype sketch")
 
 **Installation Instructions:**
 
-1. Download Install Qt 
+1. Download & Install Qt 
 2. Download this repository
 3. Open project 
 4. Clean all, run qmake, build all, run. 
 
 **Bugs/TODO**
 
--changes throughout the labs
+-Update database code
+-Add more to the about page
+-add "back" button's to go to previous page
 
 **Contribution guidelines**
 

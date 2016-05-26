@@ -12,7 +12,7 @@ QML, Qt, C++, JavaScript
 
 **Screenshots:**
 
-Current program
+Current status:
 
 ![alt text](https://github.com/tay1392/QtMetronome/blob/master/MetroSnap.PNG "Metronome Screenshot")
 ![alt text](https://github.com/tay1392/QtMetronome/blob/master/IMG_2916.JPG "Original prototype sketch")
@@ -24,7 +24,7 @@ Current program
 3. Open project 
 4. Clean all, run qmake, build all, run. 
 
-**Bugs/TODO**
+**Bugs/TODO:**
 Update database code, Add more to the about page, add "back" button's to go to previous page, etc.
 
 **Contribution guidelines**

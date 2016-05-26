@@ -39,4 +39,5 @@ ANDROID_EXTRA_LIBS =
 QT += qml quick widgets sql multimedia
 
 DISTFILES += \
-    ../SplashBack.jpg
+    ../SplashBack.jpg \
+    Pics/Splash.jpg

@@ -24,5 +24,6 @@
         <file>../Sounds/Tambo.wav</file>
         <file>../Sounds/WoodBlock.wav</file>
         <file>../DrumLoop.mp3</file>
+        <file>Sounds/MountainKing.mp3</file>
     </qresource>
 </RCC>

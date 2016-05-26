@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>Splash.jpg</file>
-        <file>../PaperBackground.jpg</file>
-        <file>../tempos.jpg</file>
-    </qresource>
-</RCC>

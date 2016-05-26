@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-quicktronome
-============
-
-QML metronome
-=======
 # QtMetronome
 
 ![alt text](https://github.com/tay1392/QtMetronome/blob/master/SplashScreenshot.PNG "Home page")
@@ -66,4 +60,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
->>>>>>> 380559cc8d9783ff623b7fd4d6a80c92d4b39276

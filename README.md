@@ -16,6 +16,8 @@ Current status:
 
 ![alt text](https://github.com/tay1392/QtMetronome/blob/master/MetroSnap.PNG "Metronome Screenshot")
 ![alt text](https://github.com/tay1392/QtMetronome/blob/master/IMG_2916.JPG "Original prototype sketch")
+![alt text](https://github.com/tay1392/QtMetronome/blob/master/KORG_MA30_METRONOM.jpg "Real Metronome")
+
 
 **Installation Instructions:**
 

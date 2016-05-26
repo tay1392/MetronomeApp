@@ -25,10 +25,7 @@ Current program
 4. Clean all, run qmake, build all, run. 
 
 **Bugs/TODO**
-
--Update database code
--Add more to the about page
--add "back" button's to go to previous page
+Update database code, Add more to the about page, add "back" button's to go to previous page, etc.
 
 **Contribution guidelines**
 

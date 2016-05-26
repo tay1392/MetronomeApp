@@ -30,7 +30,7 @@ ApplicationWindow
         Image
         {
             id: background
-            source: "qrc://pics/Splash.jpg"
+            source: "qrc:/Pics/Splash.jpg"
             anchors.fill: parent
         }
 
@@ -153,7 +153,7 @@ Button
 Audio
 {
     id: introSong
-    source:"qrc://sounds/MountainKing.mp3"
+    source:"qrc:/Sounds/MountainKing.mp3"
     autoPlay: true
     autoLoad: true
 }
@@ -175,7 +175,7 @@ ApplicationWindow
         Image
         {
             id: aboutPageBackground
-            source: "qrc://pics/PaperBackground.jpg"
+            source: "qrc:/Pics/PaperBackground.jpg"
             anchors.fill: parent
         }
 

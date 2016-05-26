@@ -1,6 +1,6 @@
 # QtMetronome
 
-![alt text](https://github.com/tay1392/QtMetronome/blob/master/SplashScreenshot.PNG "Home page")
+![alt text](https://github.com/tay1392/MetronomeApp/blob/master/Pics/SplashScreenshot.PNG "Home page")
 
 **Project Description:**
 My project is to build a digital metronome. A metronome is a tool used to keep a certain tempo in a number of activities. The majority of people that use metronomes are musicians that strive to increase their speed, accuracy, or to just practice playing a certain tempo. It works by creating a regular aural pulse that a user can then subdivide into different tempos. For example, sixteenth-note triplets would mean each beat is divided into 6 pieces. The metronome is a very useful tool for obtaining proficiency with any instrument.
@@ -14,9 +14,9 @@ QML, Qt, C++, JavaScript
 
 Current status:
 
-![alt text](https://github.com/tay1392/QtMetronome/blob/master/MetroSnap.PNG "Metronome Screenshot")
-![alt text](https://github.com/tay1392/QtMetronome/blob/master/IMG_2916.JPG "Original prototype sketch")
-![alt text](https://github.com/tay1392/QtMetronome/blob/master/KORG_MA30_METRONOM.jpg "Real Metronome")
+![alt text](https://github.com/tay1392/MetronomeApp/blob/master/Pics/MetroSnap.PNG "Metronome Screenshot")
+![alt text](https://github.com/tay1392/MetronomeApp/blob/master/Pics/IMG_2916.JPG "Original prototype sketch")
+![alt text](https://github.com/tay1392/MetronomeApp/blob/master/Pics/KORG_MA30_METRONOM.jpg "Real Metronome")
 
 
 **Installation Instructions:**
